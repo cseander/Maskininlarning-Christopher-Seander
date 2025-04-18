@@ -1,1 +1,1 @@
-# Maskininlarning-Christopher-Seander
+# Machine Learning Course
